@@ -33,4 +33,4 @@ The app does not collect or transmit personal data outside your device.
 
 Read the privacy policy here:
 
-- `PRIVACY_POLICY_URL`
+- ` https://MossLightFoundry.github.io/bostadsrattskalkyl-app-docs/privacy-policy`
